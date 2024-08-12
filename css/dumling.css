@@ -34,52 +34,80 @@ body {
     min-height: 270px;
     background-color: aqua;
     float: left;
-}
-.shape1 h2 {
-    color: white;
-    font-family:Arial, Helvetica, sans-serif ;
-    margin-left: 20px;
-    
-    
-}
-.shape2 {
-    width:  33%;
-    min-height: 270px;
-    background-color: #FEFEFE;
-    float: left;
-}
-.shape3 {
-    width:  33%;
-    min-height: 270px;
-    background-color:#DDB50C;
-    float: left;
-}
-.shape3 h2 {
-    color: white;
-    font-family:Arial, Helvetica, sans-serif ;
-    margin-left: 20px;
-}
-.shape4 {
-    width:  33%;
-    min-height: 270px;
-    background-color: #FEFEFE;
-    float: left;
-}
-.shape5 {
-    width:  33%;
-    min-height: 270px;
-    background-color:#6177FF;
-    float: left;
-}
-.shape5 h2 {
-    color: white;
-    font-family:Arial, Helvetica, sans-serif ;
-    margin-left: 20px;  
-}
-.shape6 {
-    width:  33%;
-    min-height: 270px;
-    background-color: #FEFEFE;
-    float: left;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
+.shape1 h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.shape1 p {
+    color: white;
+}
+
+.shape2 {
+    width: 33%;
+    min-height: 270px;
+    background-color: #FEFEFE;
+    float: left;
+    padding: 60px;
+    box-sizing: border-box;
+}
+
+.shape3 {
+    width: 33%;
+    min-height: 270px;
+    background-color: #DDB50C;
+    float: left;
+    padding: 20px;  
+    box-sizing: border-box;
+ 
+}
+
+.shape3 h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shape3 p {
+    color: white;
+}
+
+.shape4 {
+    width: 33%;
+    min-height: 270px;
+    background-color: #FEFEFE;
+    float: left;
+    padding: 60px;
+    box-sizing: border-box;
+}
+
+.shape5 {
+    width: 33%;
+    min-height: 270px;
+    background-color: #6177FF;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.shape5 h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shape5 p {
+    color: white;
+}
+
+.shape6 {
+    width: 33%;
+    min-height: 270px;
+    background-color: #FEFEFE;
+    float: left;
+    padding: 60px;
+    box-sizing: border-box;
+}
+i{
+    color: grey;
+}
