@@ -5,7 +5,7 @@ body {
 #main {
     width: 100%;
     min-height: 590px;
-    background-color: grey;
+    background-color: #DEDEDE;
     float: left;
 }
 
@@ -23,8 +23,10 @@ body {
 .center {
     width: 100%;
     min-height: 540px;
-    background-color: red;
+    background-color: #DEDEDE;
     float: left;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 .shape1 {
@@ -33,34 +35,51 @@ body {
     background-color: aqua;
     float: left;
 }
+.shape1 h2 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-left: 20px;
+    
+    
+}
 .shape2 {
     width:  33%;
     min-height: 270px;
-    background-color: white;
+    background-color: #FEFEFE;
     float: left;
 }
 .shape3 {
     width:  33%;
     min-height: 270px;
-    background-color:aqua;
+    background-color:#DDB50C;
     float: left;
+}
+.shape3 h2 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-left: 20px;
 }
 .shape4 {
     width:  33%;
     min-height: 270px;
-    background-color: white;
+    background-color: #FEFEFE;
     float: left;
 }
 .shape5 {
     width:  33%;
     min-height: 270px;
-    background-color:aqua;
+    background-color:#6177FF;
     float: left;
+}
+.shape5 h2 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-left: 20px;  
 }
 .shape6 {
     width:  33%;
     min-height: 270px;
-    background-color: white;
+    background-color: #FEFEFE;
     float: left;
 }
 
