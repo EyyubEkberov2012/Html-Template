@@ -1,0 +1,7 @@
+body{margin: 0px;}
+#main{
+    width:100%;
+    min-height:590px;
+    background-color: gray;
+    float: left;
+}
