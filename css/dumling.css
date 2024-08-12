@@ -1,22 +1,66 @@
-body{margin: 0px;}
-#main{
-    width:100%;
-    min-height:590px;
-    background-color:grey;
+body {
+    margin: 0px;
+}
+
+#main {
+    width: 100%;
+    min-height: 590px;
+    background-color: grey;
     float: left;
 }
-#main pre{
+
+#main pre {
     text-align: center;
-    font-size: 50px;   
+    font-size: 50px;
 }
-#main h4{
+
+#main h4 {
     text-align: center;
     font-style: italic;
 
 }
-.center{
-    width:100%;
-    min-height:540px ;
+
+.center {
+    width: 100%;
+    min-height: 540px;
     background-color: red;
     float: left;
 }
+
+.shape1 {
+    width: 33%;
+    min-height: 270px;
+    background-color: aqua;
+    float: left;
+}
+.shape2 {
+    width:  33%;
+    min-height: 270px;
+    background-color: white;
+    float: left;
+}
+.shape3 {
+    width:  33%;
+    min-height: 270px;
+    background-color:aqua;
+    float: left;
+}
+.shape4 {
+    width:  33%;
+    min-height: 270px;
+    background-color: white;
+    float: left;
+}
+.shape5 {
+    width:  33%;
+    min-height: 270px;
+    background-color:aqua;
+    float: left;
+}
+.shape6 {
+    width:  33%;
+    min-height: 270px;
+    background-color: white;
+    float: left;
+}
+
